@@ -1,0 +1,9 @@
+{
+    "server":"97.64.124.59",
+    "server_port":48722,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "method":"aes-128-gcm",
+    "password":"purewhite.io",
+    "timeout":600
+}
